@@ -1,0 +1,113 @@
+body
+{
+ margin-top: 0%;
+ margin-bottom: 0%;
+ margin-left: 0%;
+ margin-right: 0%;
+}
+h1{
+  background-color: slategrey;
+ color: yellow;
+ display: block;
+ padding-bottom: 0%;
+ margin-left: 0%;
+ margin-right: 0%;
+ margin-top: 0%;
+ margin-bottom: 0%;
+ text-align: center;
+ font-family: cursive;
+ text-indent: 0em;
+}
+
+img{
+ display: block;
+ border-width: 0%;
+ padding-top: 0%;
+ padding-bottom: 0%;
+ padding-left: 0%;
+ padding-right: 0%;
+}
+
+nav{
+ position: sticky;
+ top: 0;
+}
+nav{
+ padding: 0px;
+ box-sizing: border-box;
+ z-index: 1;
+ background-color: palegreen;
+}
+nav{
+ display: block;
+}
+nav ul{
+ max-width: 1200px;
+ margin: 0px auto;
+ white-space: nowrap;
+}
+
+ul{
+ display: block;
+ list-style-type: circle;
+ margin-block-start: 1em;
+ margin-block-end: 1em;
+ margin-inline-start: 0px;
+ margin-inline-end: 0px;
+ padding-inline-start: 40px;
+}
+a
+{
+ padding: 4px 5px;
+}
+a{
+ text-decoration: inherit;
+ color: dimgrey;
+}
+a:-webkit-any-link{
+cursor: pointer;
+}
+nav li{
+ font-size: 30px;
+}
+
+h2{
+ margin-left: 100px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-size: 50px;
+ color: green;
+}
+
+ul, li, img{
+ list-style-type: none;
+}
+
+h3{
+ margin-left: 50px;
+ font-size: 80px;
+ color: firebrick;
+}
+p{
+ margin-left: 100px;
+ font-size: 20px;
+ color: cadetblue;
+}
+
+h4{
+ background-color: slategrey;
+ color: yellow;
+ display: block;
+ padding-bottom: 0%;
+ margin-left: 0%;
+ margin-right: 0%;
+ margin-top: 0%;
+ margin-bottom: 0%;
+ text-align: 80px;
+ font-family: cursive;
+ text-indent: 0em;
+ font-size: 40px;
+}
+h4, ul, li{
+ i
+ image-orientation: from-image;
+}
